@@ -1,1 +1,1 @@
-# Aws_ECS_Deployment
+# Aws_ECS_DeploymentMiniStack + Terraform lab for ECS
